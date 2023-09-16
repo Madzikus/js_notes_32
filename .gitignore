@@ -1,0 +1,6 @@
+.idea
+.vsvode
+
+node_modules
+
+.DS_Store
